@@ -103,6 +103,7 @@ celerybeat.pid
 
 # Environments
 .env
+infra/.env
 .venv
 env/
 venv/
@@ -144,8 +145,3 @@ dmypy.json
 .history/
 
 .mypy_cache
-
-# папки со статикой и медиа
-static/
-posts/static/
-
